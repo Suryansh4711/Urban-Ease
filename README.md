@@ -1,5 +1,5 @@
 # Urban Ease
-This is a dummy furniture ecommerce website which was made by me(Shubhang Dixit) and my Team(Suryanash Agrawal, Sanskar Khandelwal, Shubh Singhal, and Shailesh Gole). It was developed as a project given by our trainer.
+This is a dummy furniture ecommerce website which was made by me(Suryansh Agarwal) and my Team(Shubhnag Dixit, Sanskar Khandelwal, Shubh Singhal, and Shailesh Gole). It was developed as a project given by our trainer.
 
 Link to the Website: https://shubhang-d.github.io/urbanease.github.io/
 
